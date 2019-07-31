@@ -16,7 +16,7 @@ TURN pada game ini akan ditentukan oleh Turn Speed setiap character, sehingga ji
 
 Setiap turn setiap character akan mendapatkan regen HP dan regen MP sesuai dengan stat mereka masing - masing.
 
-**BASIC STAT Explain : **
+**BASIC STAT Explain :**
 
 - STR : Merujuk pada Health Point dan Basic Attack
 - INT : Merujuk pada Mana Point dan Magic Attack
