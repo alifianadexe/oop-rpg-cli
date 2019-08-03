@@ -25,7 +25,7 @@ Setiap turn setiap character akan mendapatkan regen HP dan regen MP sesuai denga
 Setiap character Level Up maka basic stat akan ditambah 2 point. dan ketika level up maka Exp Requirement nya pun akan ikut naik.
 
 
-**Hero Charachter**
+**Hero Character**
 > Knight 
 - Seorang dengan jiwa kesatria, berani membawa keadilan bagi para rakyatnya 
 - Special-basic-stat (STR)
@@ -38,6 +38,13 @@ Setiap character Level Up maka basic stat akan ditambah 2 point. dan ketika leve
 
 > Archer
 - Seorang dengan mata elang, yang dapat melihat ke dalam hati manusia
-- Specisal-basic-stat (AGI)
+- Special-basic-stat (AGI)
 - Skill : Heaven's Wind (Add Basic Attack + (Magic Attack + 0,075) + (AGI * 0,25) , Add Evasion + (AGI * 0,175) , Add )
+
+**Enemy Character**
+> Witch
+- Terobsesi akan dark magic , sehingga membuat dirinya terjun ke dalam kegelapan.
+- Special-basic-stat (INT)
+- Skill : Dark Poison 
+
 
