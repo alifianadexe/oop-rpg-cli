@@ -42,9 +42,25 @@ Setiap character Level Up maka basic stat akan ditambah 2 point. dan ketika leve
 - Skill : Heaven's Wind (Add Basic Attack + (Magic Attack + 0,075) + (AGI * 0,25) , Add Evasion + (AGI * 0,175) , Add )
 
 **Enemy Character**
+> Ogre
+- Monster brutal pemakan manusia yang senantiasa lapar akan daging manusia
+- Spesial-basic-stat (STR)
+- Skill : Brutal Swing (Add minor amount basic attack and Attack for twice in one turn) 
+
 > Witch
 - Terobsesi akan dark magic , sehingga membuat dirinya terjun ke dalam kegelapan.
 - Special-basic-stat (INT)
-- Skill : Dark Poison 
+- Skill : Dark Poison (Attack a poison that will reduce amount HP on every turn)
+
+> Troll 
+- Sekelompok monster yang suka sekali memperkosa wanita, mereka bertujuan untuk mempertahankan keturunan.
+- Special-basic-stat (AGI)
+- Skill : Call The Army (Call companions , amount counting based on level monster)
+
+> Dragon
+- Legenda dari semua legenda, sebuah makhluk yang sangat kuat , dapat menghancurkan apapun dengan nafasnya.
+- Special-basic-stat (STR & INT)
+- Skill : Hell Breath (Attack with mighty breath, that have a massive damage)
+
 
 
